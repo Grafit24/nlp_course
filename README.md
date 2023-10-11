@@ -14,9 +14,9 @@
   - ✅ [My summary of lecture in pdf](./week01_embeddings/word_embeddings_summary.pdf)
 
 - [__week02__](./week02_classification) __Text Classification__
-  - Lecture: Text classification: introduction and datasets. General framework: feature extractor + classifier. Classical approaches: Naive Bayes, MaxEnt (Logistic Regression), SVM. Neural Networks: General View, Convolutional Models, Recurrent Models. Practical Tips: Data Augmentation. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_text_clf)
-  - Seminar: Text classification with convolutional NNs.
-  - Homework: Statistical & neural text classification.
+  - ✅ Lecture: Text classification: introduction and datasets. General framework: feature extractor + classifier. Classical approaches: Naive Bayes, MaxEnt (Logistic Regression), SVM. Neural Networks: General View, Convolutional Models, Recurrent Models. Practical Tips: Data Augmentation. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_text_clf)
+  - ✅ Seminar: Text classification with convolutional NNs.
+  - 🔄 Homework: Statistical & neural text classification.
   
 - [__week03__](./week03_lm) __Language Modeling__
   - Lecture: Language Modeling: what does it mean? Left-to-right framework. N-gram language models. Neural Language Models: General View, Recurrent Models, Convolutional Models. Evaluation. Practical Tips: Weight Tying. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_lang_models)
