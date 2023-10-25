@@ -2,7 +2,7 @@
 - ✅ [__lecture slides__](https://drive.google.com/file/d/1y2GKIKBzie7l8iycBO6gTKGiTTfJc4Dr/view?usp=sharing)
 - ✅ Our videos: [__lecture__](https://disk.yandex.ru/i/PbqlnI7XyNPwrg), [__seminar__](https://disk.yandex.ru/i/t4P2-R1Kk7GR1g)
 - Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
-- Using this video and material I wrote summary [pdf](./word_embeddings_summary.pdf).
+- ✅ Using this video and material I wrote summary [pdf](./word_embeddings_summary.pdf) and [obsidian md](https://github.com/Grafit24/Summary-Machine-Learning/blob/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP/Word%20Embeddings.md).
 
 
 ### Practice & homework

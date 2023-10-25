@@ -1,13 +1,14 @@
 ### Text Classification
-- [__lecture slides__](https://drive.google.com/file/d/1f7vQGNRe1PQi6WnEdCZbtf_zmx6fF8g1/view?usp=sharing)
-- Our lecture videos (russian): [__lecture__](https://disk.yandex.ru/i/Hd3VLNjGyWXDYA), [__seminar__](https://disk.yandex.ru/i/tnfwASOl4X5SUA)
+- ✅ [__lecture slides__](https://drive.google.com/file/d/1f7vQGNRe1PQi6WnEdCZbtf_zmx6fF8g1/view?usp=sharing)
+- ✅ Our lecture videos (russian): [__lecture__](https://disk.yandex.ru/i/Hd3VLNjGyWXDYA), [__seminar__](https://disk.yandex.ru/i/tnfwASOl4X5SUA)
 * Stanford NLP lecture: [__text convolutions__](https://www.youtube.com/watch?v=nzSPZyjGlWI)
+- ✅ My summary of lectures in [obsidian canvas](https://github.com/Grafit24/Summary-Machine-Learning/blob/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP/Text%20Classification.canvas)
 
 ## Practice
 
-Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2022/week02_classification/seminar.ipynb)
+✅ Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2022/week02_classification/seminar.ipynb) and [my solution](./seminar.ipynb)
 
-Your task for this week is to get past two notebooks: `./homework_part1.ipynb` and... you guessed it, `./homework_part2.ipynb`. 
+✅ Your task for this week is to get past two notebooks: [`./homework_part1.ipynb`](./homework_part1.ipynb) and... you guessed it, [`./homework_part2.ipynb`](./homework_part2.ipynb). 
 
 The second part of homework requires you to train a deep neural network. See `./seminar.ipynb` for problem description, tips and tricks.
 
