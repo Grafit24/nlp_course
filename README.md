@@ -1,7 +1,8 @@
 # YSDA Natural Language Processing course
 
-* I completed the YSDA Natural Language Processing course, diving deep into the mechanics of NLP, exploring everything from word embeddings to the latest in large language models.
-* My notes of all lectures is [here](https://github.com/Grafit24/Summary-Machine-Learning/tree/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP).
+* Welcome to my personal repository, where I've compiled my solutions and comprehensive notes for the YSDA Natural Language Processing (NLP) course. This resource is a product of my self-directed learning journey through the intricacies of NLP.
+* Explore my notes [here](https://github.com/Grafit24/Summary-Machine-Learning/tree/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP).
+* Find my solutions organized by week within the `week_*` folders.
 
 # Syllabus
 
@@ -33,17 +34,17 @@
   * ✅ Lecture: What is Transfer Learning? Great idea 1: From Words to Words-in-Context (CoVe, ELMo). Great idea 2: From Replacing Embeddings to Replacing Models (GPT, BERT). (A Bit of) Adaptors. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_transfer)
   * ✅ My summary of all lectures [obsidian md](https://github.com/Grafit24/Summary-Machine-Learning/tree/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP)
 
-* [__week06__](./week06_da) __Domain Adaptation__
+* ✅ [__week06__](./week06_da) __Domain Adaptation__
   * ✅ Lecture: General theory. Instance weighting. Proxy-labels methods. Feature matching methods. Distillation-like methods.
   * ✅ Seminar+Homework: BERT-based NER domain adaptation
   * ✅ My summary of all lectures [obsidian md](https://github.com/Grafit24/Summary-Machine-Learning/tree/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP)
   
-* [__week07__](./week07_compression) __Model deployment, compression & acceleration__
+* ✅ [__week07__](./week07_compression) __Model deployment, compression & acceleration__
   * ✅ Lecture: how nlp models get deployed; how (and why) make your model faster and/or smaller
   * No assignment this time; instead, we showcase running a simple ML model in your browser
   * ✅ My summary of all lectures [obsidian md](https://github.com/Grafit24/Summary-Machine-Learning/tree/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP)
 
-* [__week08__](./week08_llm) __Large Language Models & Their Implications__
+* ✅ [__week08__](./week08_llm) __Large Language Models & Their Implications__
   * ✅ Lecture: more BERTology; Large language models: GPT-3, OPT, BLOOM; in-context learning, prompt engineering, parameter-efficient fine-tuning
   * Practice: prompt engineering and LoRA on a 6.7B model in colab
   * ✅ My summary of all lectures [obsidian md](https://github.com/Grafit24/Summary-Machine-Learning/tree/bfaff955cd509a1f776e5ace41428b043d7d02fa/NLP)
